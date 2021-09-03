@@ -1,0 +1,82 @@
+body{
+	background-color: #FDEBD0;
+}
+.estilo_fondo{
+	margin-top: 10px; 
+	padding-top: 10px;
+	background-color: #9A7D0A;
+}
+@font-face{
+	font-family: "fuente1";
+	src: url("../fonts/Universal Serif.ttf");
+}
+.estilo_fuente1{
+	background-color: #D7DBDD;
+	margin-top: 10px; 
+	padding-top: 10px;
+	font-family: "fuente1";
+
+} 
+.centrado{
+	margin-left: auto;
+	margin-right: auto;
+}
+.fondoFila{
+	background-color: #AED6F1;
+}
+
+.titulo{
+	font-size: 75px;
+}
+@font-face{
+	font-family: "fuente2";
+	src: url("../fonts/aBlackLives.ttf");
+}
+.estilo_fuente2{
+	background-color: #F1F1F1;
+
+	font-family: "fuente2";
+
+} 
+
+@font-face{
+	font-family: "fuente3";
+	src: url("../fonts/Chunkfive Ex.ttf");
+}
+.estilo_fuente3{
+	background-color: #F1F1F1;
+
+	font-family: "fuente3";
+
+}
+
+@font-face{
+	font-family: "fuente3";
+	src: url("../fonts/LinLibertine_aBL.ttf");
+}
+.estilo_fuente3{
+	background-color: #F1F1F1;
+
+	font-family: "fuente3";
+
+} 
+@font-face{
+	font-family: "fuente4";
+	src: url("../fonts/Chunkfive Ex.ttf");
+}
+.estilo_fuente4{
+	background-color: #F1F1F1;
+	font-size: 20px;
+	font-family: "fuente4";
+
+}
+.margenes1{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.izquierda{
+	margin-left: 10px;
+}
+.derecha{
+	margin-right: 10px;
+}
